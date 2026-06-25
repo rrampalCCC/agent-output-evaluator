@@ -89,7 +89,7 @@ something a generic, gradient-only eval tool would miss.
 ## Honest limitations (what the numbers do *not* claim)
 
 - **Structure, not truth.** Rule-based checks verify that an output *has* the
-  right shape, completeness, and safety properties — not that its facts are
+  right shape, completeness, and safety properties, not that its facts are
   correct. A confidently wrong figure with a plausible citation can still score
   well. This is the inherent ceiling of rule-based judging without a
   ground-truth key.
